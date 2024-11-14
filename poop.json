@@ -1,0 +1,12 @@
+{
+    "name": "Praman",
+    "age": "9,204 days",
+    "city": "Seattle",
+    "interests": [
+        "Traveling",
+        "Gaming",
+        "Collecting",
+        "Pokemon"
+    ],
+    "is_student": true
+}

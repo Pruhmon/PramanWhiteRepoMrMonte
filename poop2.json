@@ -1,0 +1,12 @@
+{
+    "name": "Osama Bin Ballin",
+    "age": "9,204 days",
+    "city": "Twin Skyscrapers",
+    "interests": [
+        "Traveling",
+        "Bombsquad",
+        "Ballin",
+        "History"
+    ],
+    "is_student": false
+}
